@@ -253,3 +253,5 @@ function setNameDiv(){
   var secondTicker;
   var firstSceneFlag = true;
   var secondSceneFlag = false;
+
+  // end
